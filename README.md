@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Anas Boussehmine</h1>
 <h3 align="center">A passionate web developer from Tunisia</h3>
 
-- 🌱 I’m currently learning **Nodejs, Express and MongoDB.**
+- 🌱 I’m currently creating **MERN** apps.
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01296fd40ba109ae71?mp_source=share](https://www.upwork.com/freelancers/~01296fd40ba109ae71?mp_source=share)
 
