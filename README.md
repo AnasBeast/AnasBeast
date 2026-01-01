@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **boussehminea@gmail.com**
 
-- 📄 Know more about my experiences [https://mohamed-anas-boussehmine-cv.tiiny.site](https://mohamed-anas-boussehmine-cv.tiiny.site)
+- 📄 Know more about my experiences [https://www.linkedin.com/in/anas-boussehmine](https://www.linkedin.com/in/anas-boussehmine/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
